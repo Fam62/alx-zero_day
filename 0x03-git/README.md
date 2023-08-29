@@ -12,14 +12,5 @@ Here are a few projects I'm proud of:
 
 ### Project 1: Code Wizardry
 
-A command-line tool that automates repetitive tasks and boosts productivity. With Code Wizardry, you can focus on the fun part of coding and let the tool handle the rest.
-
-### Project 2: Pixel Painter
-
-Express your creativity with Pixel Painter! This web app lets you create stunning digital art one pixel at a time. It's a perfect blend of coding and artistry.
-
-## Current Focus
-
-I'm currently diving deep into machine learning. From training models to exploring neural networks, I'm excited to see how AI can reshape our world.
-
+A command-line tool that automates repetitive tasks and boosts productivity. With Code Wizardry, you can focus on the fun part of coding.
 
