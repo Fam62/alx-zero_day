@@ -13,4 +13,5 @@ Here are a few projects I'm proud of:
 ### Project 1: Code Wizardry
 
 A command-line tool that automates repetitive tasks and boosts productivity. With Code Wizardry, you can focus on the fun part of coding.
+Updated read-me
 
